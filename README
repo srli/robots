@@ -1,5 +1,5 @@
 A simple Ruby library to parse robots.txt.
-BLAH BALBHALK:SJD A:NOEIRNECPOAISMSLNAKJ HCKNAESKJFCHANGES
+
 Usage:
 
 	robots = Robots.new "Some User Agent"
